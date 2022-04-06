@@ -1,0 +1,119 @@
+html {
+    font-size: 150%;
+}
+
+@media screen and (max-width: 2300px) {
+    html {
+        font-size: 140%;
+    }
+}
+
+@media screen and (max-width: 2200px) {
+    html {
+        font-size: 130%;
+    }
+}
+
+@media screen and (max-width: 2100px) {
+    html {
+        font-size: 120%;
+    }
+}
+
+@media screen and (max-width: 1820px) {
+    html {
+        font-size: 110%;
+    }
+}
+
+@media screen and (max-width: 1680px) {
+    html {
+        font-size: 100%;
+    }
+}
+
+@media screen and (max-width: 1430px) {
+    html {
+        font-size: 90%;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    html {
+        font-size: 80%;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    html {
+        font-size: 70%;
+    }
+}
+
+@media screen and (max-width: 1040px) {
+    html {
+        font-size: 60%;
+    }
+}
+
+@media screen and (max-width: 940px) {
+    html {
+        font-size: 50%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    html {
+        font-size: 130%;
+        width: 100vw;
+        overflow-x: hidden;
+    }
+}
+
+@media screen and (max-width: 760px) {
+    html {
+        font-size: 120%;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    html {
+        font-size: 110%;
+    }
+}
+
+@media screen and (max-width: 620px) {
+    html {
+        font-size: 100%;
+    }
+}
+
+@media screen and (max-width: 570px) {
+    html {
+        font-size: 90%;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    html {
+        font-size: 80%;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    html {
+        font-size: 70%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    html {
+        font-size: 60%;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    html {
+        font-size: 50%;
+    }
+}

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/flippy/static/css/main.3761467d.css",
-    "main.js": "/flippy/static/js/main.6d9a7221.js",
+    "main.js": "/flippy/static/js/main.3e0b60ad.js",
     "static/js/787.463516a8.chunk.js": "/flippy/static/js/787.463516a8.chunk.js",
     "static/media/1stBanner.svg": "/flippy/static/media/1stBanner.95b1e17faa4df4202633b67f956617b7.svg",
     "static/media/hori4.svg": "/flippy/static/media/hori4.ccb79f95f8b066d546d1e19800b72186.svg",
@@ -149,11 +149,11 @@
     "static/media/ValidUsername.svg": "/flippy/static/media/ValidUsername.2659f5c8d8d662a9740a26ed470311f2.svg",
     "static/media/AccordionExpandIcon.svg": "/flippy/static/media/AccordionExpandIcon.6a17ff6563340f6faeb15ff33e3afebc.svg",
     "main.3761467d.css.map": "/flippy/static/css/main.3761467d.css.map",
-    "main.6d9a7221.js.map": "/flippy/static/js/main.6d9a7221.js.map",
+    "main.3e0b60ad.js.map": "/flippy/static/js/main.3e0b60ad.js.map",
     "787.463516a8.chunk.js.map": "/flippy/static/js/787.463516a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3761467d.css",
-    "static/js/main.6d9a7221.js"
+    "static/js/main.3e0b60ad.js"
   ]
 }
